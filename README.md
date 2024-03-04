@@ -1,1 +1,1 @@
-# wp
+Programirane na video igri vo Python.
